@@ -65,12 +65,12 @@ A potential extension is to track how many times a student has attempted a parti
 - **Hive** — Local storage, if used in this version
 
 ## 📱 Screenshots
-- Home dashboard:
-- Next Best Action
-- Add/Edit Task
-- Focus Session
-- Post-Session Reflection
-- Focus Score and Progress
+- Home dashboard: Screenshot 2026-10-13 194732.png
+- welcome page :Screenshot 2026-10-13 195442.png
+- Add/Edit Task:Screenshot 2026-10-13 194834.png
+- Focus Session:Screenshot 2026-10-13 194846.png
+- Post-Session Reflection:Screenshot 2026-10-13 194859.png
+- profile page:Screenshot 2026-10-13 194808.png
 
 ## 📥 Download FocusBuddy
 
