@@ -64,14 +64,26 @@ A potential extension is to track how many times a student has attempted a parti
 - **Dart** — Application programming language
 - **Hive** — Local storage, if used in this version
 
-## 📱 Screenshots
-- Home dashboard: Screenshot 2026-10-13 194732.png
-- welcome page :Screenshot 2026-10-13 195442.png
-- Add/Edit Task:Screenshot 2026-10-13 194834.png
-- Focus Session:Screenshot 2026-10-13 194846.png
-- Post-Session Reflection:Screenshot 2026-10-13 194859.png
-- profile page:Screenshot 2026-10-13 194808.png
 
+  ## 📱 App Screenshots
+
+### 1. Welcome Page
+![Welcome Page](./Screenshot%202026-10-13%20195442.png)
+
+### 2. Home Dashboard
+![Home Dashboard](./Screenshot%202026-10-13%20194732.png)
+
+### 3. Add/Edit Task
+![Add/Edit Task](./Screenshot%202026-10-13%20194834.png)
+
+### 4. Focus Session
+![Focus Session](./Screenshot%202026-10-13%20194846.png)
+
+### 5. Post-Session Reflection
+![Post-Session Reflection](./Screenshot%202026-10-13%20194859.png)
+
+### 6. Profile Page
+![Profile Page](./Screenshot%202026-10-13%20194808.png)
 ## 📥 Download FocusBuddy
 
 https://github.com/kri-sh29/FocusBuddy-Flutter/releases/download/v1.0.0/app-release.apk
